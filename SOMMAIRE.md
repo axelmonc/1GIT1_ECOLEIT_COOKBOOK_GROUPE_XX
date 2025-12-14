@@ -6,7 +6,7 @@
 ## Recettes
 ### Plats
 - [Pates Carbo](recettes/plats/pates_carbo.md)
-- [Pâtes bolognaise](recettes/plats/pates-bolognaise.md)
+- [Pâtes bolognaise](recettes/plats/pates-bolo.md)
 
 ## Readme
 - [Readme](README.md)
